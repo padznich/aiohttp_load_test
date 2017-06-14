@@ -1,0 +1,14 @@
+# Python
+*.pyc
+
+# Virtualenv
+venv
+
+# Pycharm
+.idea
+
+# Tests
+.cache
+
+# Tox
+.tox
